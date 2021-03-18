@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # some_date has been defined
+    # print its date part
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7330#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 10 Mar 2021 16:44:04 UTC
+record: -1
